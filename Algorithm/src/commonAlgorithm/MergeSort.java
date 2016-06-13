@@ -1,0 +1,13 @@
+package commonAlgorithm;
+
+public class MergeSort {
+
+	public static void main(String[] args) {
+
+	}
+	
+	public int[] mergeSort(int[] array){
+		return array;
+	}
+
+}
